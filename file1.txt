@@ -1,1 +1,2 @@
 menambahkan file 1
+menambahkan baris baru file 1 
